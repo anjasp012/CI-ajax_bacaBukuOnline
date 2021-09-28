@@ -1,2 +1,4 @@
 # CI-ajax_bacaBukuOnline
-# CI-ajax_bacaBukuOnline
+
+api = backend
+buku = frontend
